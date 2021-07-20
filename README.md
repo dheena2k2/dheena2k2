@@ -1,4 +1,4 @@
-# Greetings !!!
+# Hey, Guys!!!
 # I am Dheenadhayalan
 ## About
 A Robotics enthusiast and also interested in Machine learning, AIs and stuffs.
