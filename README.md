@@ -19,5 +19,5 @@ Looking forward to collaborate on ROS related projects
 <p>
   <a href = "https://in.linkedin.com/in/rdheena2k2"><img  alt="Dheenadhayalan.Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  HSPACE="10"/><i>Dheenadhayalan Ramadoss</i></a>
   <br>
-  <img  alt="Dheenadhayalan.Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"  HSPACE="10"/><i>dheena2k2@gmail.com</i>
+  <img  alt="Dheenadhayalan.Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"  HSPACE="10"/><i>dheenadhayalanr19@gmail.com</i>
 </p>
