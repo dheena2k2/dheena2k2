@@ -9,7 +9,7 @@ Looking forward to collaborate on ROS related projects
 <p width="100%" align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=dheena2k2&show_icons=true&theme=radical&line_height=27">
   <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dheena2k2&layout=compact&hide=jupyter notebook,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dheena2k2&layout=compact&theme=tokyonight">
 </p>
 
 ## Languages and tools
